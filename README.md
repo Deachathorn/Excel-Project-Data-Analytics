@@ -1,2 +1,2 @@
 # Excel-Project-Data-Analytics
-Portfolio project demonstrating Excel  skills — built during a workshop by Luke Barousse.
+Portfolio project demonstrating my Excel skills — built during a workshop Excel course by Luke Barousse.
