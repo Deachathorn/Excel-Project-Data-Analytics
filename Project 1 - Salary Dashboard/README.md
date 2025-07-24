@@ -2,7 +2,7 @@
 
 ## Salary Dashboard
 
-![Salary Dashboard](./assets/Salary-Dashboard-2.gif)
+![Salary Dashboard](./assets/Salary-Dashboard.gif)
 
 ## บทนำ
 แดชบอร์ดข้อมูลเงินเดือนของสายงาน Data เพื่อช่วยให้ผู้หางานสามารถศึกษาข้อมูลเงินเดือนในตำแหน่งงานที่ต้องการ และตรวจสอบว่าได้รับค่าตอบแทนอย่างเหมาะสมหรือไม่
